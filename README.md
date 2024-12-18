@@ -13,3 +13,8 @@ I've created an interactive Power BI dashboard to provide a comprehensive overvi
 
  Check out the dashboard here: https://github.com/Rvm70/Awesome-Chocalates-Dashboard/blob/main/cholocate%20company.pbix
 
+ 
+## Dashboard
+ ![Screenshot (1)](https://github.com/user-attachments/assets/610c5071-4d8f-48c7-aa9e-c75a4991def3)
+
+
