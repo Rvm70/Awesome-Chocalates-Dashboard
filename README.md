@@ -5,3 +5,9 @@ I've created an interactive Power BI dashboard to provide a comprehensive overvi
 - Profit Percentage and Low Box Shipment Percentage
 - Sales Trends by Month
 - Shipment Breakdown by Product and Customer
+
+## Key Features:
+ - Dynamic Visualizations: Interactive charts and tables for easy exploration of data.
+ - Actionable Insights: Identify trends, opportunities, and areas for improvement.
+ - Data-Driven Decision Making: Empower informed business decisions.
+
